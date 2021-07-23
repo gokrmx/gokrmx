@@ -4,7 +4,6 @@
 Also getting down my ABCs on Python, Bash, HTML, CSS & JS. 📄
 Trying php & databases in the foreseeable future. 🌱 
 Looking to host my own website with custom servers! 🏃🏻‍♂️
-Maybe even find a job in IT. 🕴🏽
 
 - 🎵 I'm also into **music**, jamming on pure data 🔊 & learning supercollider.🎚🎛
 
